@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @coderrrrr2
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python and c++
-- i am also dart for flutter 
+- 🌱 I’m currently Flutter
 - 📫 How to reach me ...
 
 <!---
