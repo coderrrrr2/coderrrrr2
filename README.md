@@ -6,7 +6,6 @@ Hi there, I'm Philip and i develop mobile applications. I have exprience with fl
 
 Skills: Flutter/Python
 
-- 🔭 I’m currently working on this page. 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/coderrrrr2 )  
