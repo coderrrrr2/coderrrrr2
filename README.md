@@ -1,9 +1,8 @@
 ### Hi there 👋, Adebayo Philip
-#### Mobile Applications developer
 Hi there, I'm Philip and i develop mobile applications. 
 
 
-Skills: Flutter
+Skills: Flutter , Dart
 
 
 
