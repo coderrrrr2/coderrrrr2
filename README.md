@@ -1,15 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adebayo Philip</h1>
 <h3 align="center">
-  I am a mobile developer specializing in Flutter with extensive experience in building high-performance, cross-platform applications for both iOS and Android. My skills include:
-  <br><br>
-  <ul>
-    <li><strong>Flutter & Dart</strong>: Creating seamless and responsive user interfaces using Flutter's comprehensive widget library.</li>
-    <li><strong>State Management</strong>: Proficient in Provider and Riverpod for efficient state management.</li>
-    <li><strong>API Integration</strong>: Integrating RESTful APIs to enhance app functionality.</li>
-    <li><strong>Firebase</strong>: Utilizing Firebase for backend services, including authentication, database, and cloud functions.</li>
-    <li><strong>Design</strong>: Applying a keen eye for design to ensure apps are not only functional but also visually appealing.</li>
-    <li><strong>Code Quality</strong>: Committed to maintaining high standards of code quality and performance.</li>
-  </ul>
+  I am a mobile developer specializing in Flutter with extensive experience in building high-performance, cross-platform applications for both iOS and Android. My skil
 </h3>
 <p align="left">
 
