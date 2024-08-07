@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adebayo Philip</h1>
 <h3 align="center">
-  I am a mobile developer specializing in Flutter with extensive experience in building high-performance, cross-platform applications for both iOS and Android.
+  I am a mobile developer with experience in building high-performance, cross-platform applications for both iOS and Android.
 </h3>
 <p align="left">
 
