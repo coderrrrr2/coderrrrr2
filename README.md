@@ -27,7 +27,6 @@
   <li>Flutter & Dart</li>
   <li>SwiftUI (Learning)</li>
   <li>Storyboard & UIKit (Learning)</li>
-  <li>React (basic), HTML5, CSS3</li>
 </ul>
 
 
@@ -47,7 +46,6 @@
   <li>Bash/Dart scripting (for automating Flutter architecture)</li>
   <li>GetX, Riverpod (State Management)</li>
   <li>Paystack integration</li>
-  <li>Tailwind CSS (for landing pages)</li>
 </ul>
 
 <hr>
@@ -55,8 +53,7 @@
 
 <h2>📱 Notable Projects</h2>
 <ul>
-  <li>🚐 <strong>ShuttleU</strong> – Campus shuttle booking app with real-time driver tracking & dynamic pricing</li>
-<!--   <li>💸 <strong>TheCryptoRamp</strong> – A crypto off-ramp platform built with Flutter + Firebase + Node.js</li>
+  <li>🚐 <strong>Zevlo</strong> – Campus shuttle booking app with real-time driver tracking & booking functinality</li>
   <li>🧵 <strong>LeoBot</strong> – A Telegram job-matching bot using Telegraf & PostgreSQL</li> -->
 </ul>
 
