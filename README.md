@@ -54,8 +54,8 @@
 <h2>📱 Notable Projects</h2>
 <ul>
   <li>🚐 <strong>Zevlo</strong> – Campus shuttle booking app with real-time driver tracking & booking functinality</li>
-  <li>🧵 <strong>LeoBot</strong> – A Telegram job-matching bot using Telegraf & PostgreSQL</li> -->
-</ul>
+<!--   <li>🧵 <strong>LeoBot</strong> – A Telegram job-matching bot using Telegraf & PostgreSQL</li> -->
+</ul> -->
 
 <hr>
 
