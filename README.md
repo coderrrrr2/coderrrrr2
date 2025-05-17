@@ -56,8 +56,8 @@
 <h2>📱 Notable Projects</h2>
 <ul>
   <li>🚐 <strong>ShuttleU</strong> – Campus shuttle booking app with real-time driver tracking & dynamic pricing</li>
-  <li>💸 <strong>TheCryptoRamp</strong> – A crypto off-ramp platform built with Flutter + Firebase + Node.js</li>
-  <li>🧵 <strong>LeoBot</strong> – A Telegram job-matching bot using Telegraf & PostgreSQL</li>
+<!--   <li>💸 <strong>TheCryptoRamp</strong> – A crypto off-ramp platform built with Flutter + Firebase + Node.js</li>
+  <li>🧵 <strong>LeoBot</strong> – A Telegram job-matching bot using Telegraf & PostgreSQL</li> -->
 </ul>
 
 <hr>
