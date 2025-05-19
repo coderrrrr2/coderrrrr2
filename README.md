@@ -5,7 +5,7 @@
   I'm Philip — a mobile-focused software engineer with a strong background in building cross-platform apps using Flutter. I love bringing ideas to life with beautiful UIs and scalable architectures, and I’ve built production-ready apps for transportation and community-based platforms.
 </p>
 <p>
-  While mobile is my core strength, I’ve also worked across the full stack, including backend systems with Node.js, PostgreSQL, and Firebase. I'm currently exploring iOS development using SwiftUI and Storyboard to round out my native mobile skills.
+  While mobile is my core strength, I’ve also worked across the full stack, including backend systems with Express JS, PostgreSQL, and Firebase. I'm currently exploring iOS development using SwiftUI and Storyboard to round out my native mobile skills.
 </p>
 
 
@@ -32,10 +32,10 @@
 
 <h3>🛠️ Backend & Tools</h3>
 <ul>
-  <li>Node.js (Express, NestJS)</li>
-  <li>PostgreSQL, MySQL</li>
+  <li>Node.js (Express)</li>
+  <li>PostgreSQL</li>
   <li>Firebase (Auth, Firestore, FCM, Crashlytics)</li>
-  <li>Redis, WebSockets (Socket.io)</li>
+  <li> WebSockets (Socket.io)</li>
   <li>REST & JSON APIs</li>
   <li>Git & GitHub</li>
 </ul>
@@ -44,8 +44,7 @@
 <h3>🧰 Utilities & Others</h3>
 <ul>
   <li>Bash/Dart scripting (for automating Flutter architecture)</li>
-  <li>GetX, Riverpod (State Management)</li>
-  <li>Paystack integration</li>
+  <li>Riverpod (State Management)</li>
 </ul>
 
 <hr>
@@ -55,7 +54,7 @@
 <ul>
   <li>🚐 <strong>Zevlo</strong> – Campus shuttle booking app with real-time driver tracking & booking functinality</li>
 <!--   <li>🧵 <strong>LeoBot</strong> – A Telegram job-matching bot using Telegraf & PostgreSQL</li> -->
-</ul> -->
+</ul> 
 
 <hr>
 
