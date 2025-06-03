@@ -2,7 +2,7 @@
 <h2>💫 About Me</h2>
 <p>
   Hey there! 👋 <br>
-  I'm Philip — a mobile-focused software engineer with a strong background in building cross-platform apps using Flutter. I love bringing ideas to life with beautiful UIs and scalable architectures, and I’ve built production-ready apps for transportation and community-based platforms.
+  I'm Philip  a mobile-focused software engineer with a strong background in building cross-platform apps using Flutter. I love bringing ideas to life with beautiful UIs and scalable architectures, and I’ve built production-ready apps for transportation and community-based platforms.
 </p>
 <p>
   While mobile is my core strength, I’ve also worked across the full stack, including backend systems with Express JS, PostgreSQL, and Firebase. I'm currently exploring iOS development using SwiftUI and Storyboard to round out my native mobile skills.
