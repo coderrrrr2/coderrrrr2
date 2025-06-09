@@ -13,7 +13,6 @@
 <h3>🧠 Currently Learning</h3>
 <ul>
   <li>SwiftUI + Storyboard for native iOS development</li>
-  <li>Real-time backend systems with WebSockets and Redis</li>
 </ul>
 
 <hr>
