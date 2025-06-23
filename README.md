@@ -42,8 +42,8 @@
 
 <h3>🧰 Utilities & Others</h3>
 <ul>
-  <li>Bash/Dart scripting (for automating Flutter architecture)</li>
-  <li>Riverpod (State Management)</li>
+<!--   <li>Bash/Dart scripting (for automating Flutter architecture)</li>
+  <li>Riverpod (State Management)</li> -->
 </ul>
 
 <hr>
