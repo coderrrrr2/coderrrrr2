@@ -41,22 +41,7 @@
 </ul>
 
 
-<h3>🧰 Utilities & Others</h3>
-<ul>
-<!--   <li>Bash/Dart scripting (for automating Flutter architecture)</li>
-  <li>Riverpod (State Management)</li> -->
-</ul>
 
-<hr>
-
-
-<h2>📱 Notable Projects</h2>
-<ul>
-  <li>🚐 <strong>Zevlo</strong> – Campus shuttle booking app with real-time driver tracking & booking functinality</li>
-<!--   <li>🧵 <strong>LeoBot</strong> – A Telegram job-matching bot using Telegraf & PostgreSQL</li> -->
-</ul> 
-
-<hr>
 
 
 <h2>🌐 Let’s Connect</h2>
